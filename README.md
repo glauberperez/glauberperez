@@ -2,6 +2,7 @@
 - 👀 I’m currently learning Html, CSS, JS, Python and Ethical Hacking.
 - 👀 I’m interested in cyber security and network.
 - 📫 feel free to contact me on:
+<br>
 <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
  <!---
 gperez24/gperez24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
