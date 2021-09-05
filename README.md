@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Glauber Perez.
-- 👀 I’m currently learning Html, CSS, JS, Python and Ethical Hacking.
+- 👀 I’m currently learning Ethical Hacking and CyberSecurity.
 - 👀 I’m interested in cyber security and network.
-- 📫 feel free to contact me on:
+- 📫 feel free to contact me on: glauber2070@protonmail.com
 ##
 <div>
 <a href="https://github.com/gperez24">
