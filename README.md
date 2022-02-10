@@ -5,8 +5,6 @@
 ##
 <div>
 <a href="https://github.com/gperez24">
-<img align="left" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperez24&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
@@ -16,5 +14,7 @@
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <!---
+<img align="left" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 iae meu parcero
 --->
