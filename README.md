@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Glauber Perez.
-- 🧠 I’m currently learning Ethical Hacking.
-- 👀 I’m interested in Cyber Security and Network.
 - 📫 feel free to contact me on: glauberperez42@gmail.com
 ##
 <div>
