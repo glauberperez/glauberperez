@@ -6,9 +6,10 @@
 <div>
 <a href="https://github.com/gperez24">
 <img align="left" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperez24&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  <div align="center">
+ 
 </div>
      <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
