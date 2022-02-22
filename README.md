@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Glauber Perez.
-- 📫 feel free to contact me on: glauberperez42@gmail.com
+- 📫 feel free to contact me on: glauber2070@hotmail.com
 ##
 <div>
 <a href="https://github.com/gperez24">
