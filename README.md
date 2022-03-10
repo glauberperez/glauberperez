@@ -14,7 +14,7 @@
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </div> 
    
-    ![Snake animation](https://github.com/glauberperez/glauberperez/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/glauberperez/glauberperez/blob/output/github-contribution-grid-snake.gif)
    
 <!---
 <img align="left" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gperez24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
