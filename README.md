@@ -1,7 +1,8 @@
-### Olá
+### Hello World!
 
-- Meu nome é Glauber Perez e eu tenho 
-- 
+- My name is Glauber Perez, i am 16 years old;
+- I am studying to be a **Pentester**;
+- Actually i am studying "Desenvolvimento de Sistemas".
 
 <div align="center">
 <img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api?username=glauberperez&theme=chartreuse-dark&count_private=1&include_all_commits=1&hide_border=1&show_icons=true">
