@@ -7,8 +7,8 @@
 ---
 ### If you want talk to me :
 <div align="center">
-<img href="mailto:glauber2070.20@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img href="https://api.whatsapp.com/send?phone=5511986142387&text=suppp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="href="mailto:glauber2070.20@gmail.com""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href=" href="https://api.whatsapp.com/send?phone=5511986142387&text=suppp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 <div align="center">
 <img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api?username=glauberperez&theme=chartreuse-dark&count_private=1&include_all_commits=1&hide_border=1&show_icons=true">
