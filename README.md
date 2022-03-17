@@ -16,8 +16,9 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
-
 </div>
+
+
 
 
 ![snake game](https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg)
