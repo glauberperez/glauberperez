@@ -23,7 +23,8 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </div>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=glauberperez&theme=xcode&line=32a852&point=00ff00&hide_border=true&area=true&hide_title=true)](https://github.com/glauberperez)
+---
 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=glauberperez&theme=xcode&line=32a852&point=00ff00&hide_border=true&area=true&hide_title=true)](https://github.com/glauberperez)
 
 ![snake game](https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg)
