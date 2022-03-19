@@ -13,7 +13,7 @@
 ---
 <div align="center">
 <img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api?username=glauberperez&theme=chartreuse-dark&count_private=1&include_all_commits=1&hide_border=1&show_icons=true">
-<img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauberperez&layout=compact&hide_border=1&theme=chartreuse-dark">
+<img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauberperez&layout=compact&hide_border=1&theme=chartreuse-dark&hide=html,css">
 </div>
 
 <div align="center">
@@ -24,7 +24,5 @@
 </div>
 
 ---
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=glauberperez&theme=xcode&line=32a852&point=00ff00&hide_border=true&area=true&hide_title=true)](https://github.com/glauberperez)
 
 ![snake game](https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg)
