@@ -2,7 +2,7 @@
 
 - My name is Glauber Perez, i am 16 years old;
 - I am studying to be a **Pentester**;
-- Actually i am studying "Desenvolvimento de Sistemas".
+- Currently i am studying "Desenvolvimento de Sistemas".
 
 #### If you want talk to me :
 <div align="center">
