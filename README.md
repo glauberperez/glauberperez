@@ -4,6 +4,7 @@
 - I am studying to be a **Pentester**;
 - Currently i am studying "Desenvolvimento de Sistemas".
 
+
 #### If you want talk to me :
 <div align="center">
 <a href="mailto:glauber2070.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
