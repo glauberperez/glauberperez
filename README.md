@@ -29,5 +29,5 @@
 
 ---
 <a href="#">
-![snake game](https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg"></img>
 </a>
