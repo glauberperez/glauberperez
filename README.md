@@ -16,7 +16,7 @@
 <img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api?username=glauberperez&theme=chartreuse-dark&count_private=1&include_all_commits=1&hide_border=1&show_icons=true">
 </a>
 <a href="#">
-<img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauberperez&layout=compact&hide_border=1&theme=chartreuse-dark&hide=htl">
+<img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauberperez&layout=compact&hide_border=1&theme=chartreuse-dark&hide=html">
 </a>
 </div>
 
