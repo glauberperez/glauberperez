@@ -26,6 +26,8 @@
   <a href="#"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 <a href="#">
   <img src="https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg"></img>
