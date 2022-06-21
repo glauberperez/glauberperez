@@ -32,9 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP    1 hr 17 mins    ████████████████████▒░░░░   81.26 %
-HTML   17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
