@@ -27,7 +27,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL    6 mins          ████████████████████████▒   97.56 %
+Bash   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
