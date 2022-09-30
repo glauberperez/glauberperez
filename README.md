@@ -16,7 +16,7 @@
 
 ### :earth_americas: &nbsp; Where to find me:
 
-[![Linkedin](https://img.shields.io/badge/-glauberperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glauber-perez-10186821a/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-glauberperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glauber-perez-10186821a/)](https://www.linkedin.com/in/glauber-perez-10186821a/)
 
 [![Email](https://img.shields.io/badge/-glauber2070@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glauber2070@hotmail.com)](mailto:glauber2070@hotmail.com)
 
