@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&theme=react&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&hide_title=1&theme=react&cache_seconds=2300">
 
 
 
-### My name is Glauber Perez, and i am actually:
+## My name is Glauber Perez, and i am actually:
 
 <p>
 
@@ -14,9 +14,9 @@
 
 ---
 
-### :earth_americas: &nbsp; Where to find me:
+### :earth_americas: &nbsp; How to reach me:
 
-[![Linkedin](https://img.shields.io/badge/-glauberperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glauber-perez-10186821a/)](https://www.linkedin.com/in/glauber-perez-10186821a/)
+<a href="mailto:glauber2070.20@gmail.com">![glauber2070.20@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-[![Email](https://img.shields.io/badge/-glauber2070@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glauber2070@hotmail.com)](mailto:glauber2070@hotmail.com)
+<a href="https://www.linkedin.com/in/glauber-perez-10186821a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
