@@ -1,40 +1,27 @@
-# <p align="center"> Hello World! </p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&theme=chartreuse-dark&cache_seconds=2300">
 
-- My name is Glauber Perez, i am 17 years old;
-- I am studying to be a **Pentester**;
-- Currently i am studying "Desenvolvimento de Sistemas".
+## Hello World!
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=glauberperez&color=6BC71D&style=for-the-badge&logo=GitHub">
 
-### <p align="center">  If you want talk to me: </p>
-<div align="center">
-<a href="mailto:glauber2070.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+<p>
 
----
-<div align="center">
- <a href="#">
-<img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api?username=glauberperez&theme=chartreuse-dark&count_private=1&include_all_commits=1&hide_border=1&show_icons=true&count_private=false">
-</a>
-<a href="#">
-<img height="250px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauberperez&layout=compact&hide_border=1&theme=chartreuse-dark&hide=html,css,blade">
-</a>
-</div>
++ Learning **cyber-security** & **development**
 
++ Studying **Systems Development** at **ETEC de Guaianazes**
 
+</p>
 
 ---
-#### WakaTime:
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   3 hrs 58 mins   ██████████████▒░░░░░░░░░░   57.18 %
-PHP          1 hr 57 mins    ███████░░░░░░░░░░░░░░░░░░   28.26 %
-TypeScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-```
+### :earth_americas: &nbsp; Where to find me:
 
-<!--END_SECTION:waka-->
+[![Linkedin](https://img.shields.io/badge/-glauberperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glauber-perez-10186821a/)](LINK-DO-SEU-LINKEDIN)
+
+[![Email](https://img.shields.io/badge/-glauber2070@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glauber2070@hotmail.com)](mailto:glauber2070@hotmail.com)
+
 ---
+
 <a href="#">
   <img src="https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg"></img>
 </a>
