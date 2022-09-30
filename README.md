@@ -1,8 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&theme=chartreuse-dark&cache_seconds=2300">
 
-## Hello World!
+# Hello World! 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=glauberperez&color=6BC71D&style=for-the-badge&logo=GitHub">
+### My name is Glauber Perez, and i am actually:
 
 <p>
 
