@@ -20,8 +20,3 @@
 
 [![Email](https://img.shields.io/badge/-glauber2070@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glauber2070@hotmail.com)](mailto:glauber2070@hotmail.com)
 
----
-
-<a href="#">
-  <img src="https://raw.githubusercontent.com/glauberperez/glauberperez/output/github-contribution-grid-snake.svg"></img>
-</a>
