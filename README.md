@@ -12,8 +12,6 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=glauberperez&color=blue">
-
 ---
 
 ### <p align="center"> 🌎 &nbsp; How to reach me: </p>
@@ -30,4 +28,6 @@
  </tr> 
 </table>
 
-
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=glauberperez&color=blue">
+</p>
