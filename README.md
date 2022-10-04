@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&hide_title=1&theme=react&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&hide_title=1&theme=react">
 
 
 
