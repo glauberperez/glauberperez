@@ -14,20 +14,6 @@
 
 ---
 
-### <p align="center"> 🌎 &nbsp; How to reach me: </p>
-
-
-<table align="center" cellpadding="0" cellspacing="0" border="0">
- <tr>
-   <th>
-     <a href="mailto:glauber2070.20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-   </th>
-   <th>
-     <a href="https://www.linkedin.com/in/glauberperez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-   </th>
- </tr> 
-</table>
-
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=glauberperez&color=blue">
 </p>
