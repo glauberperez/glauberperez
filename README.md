@@ -8,8 +8,6 @@
 
 + Learning **cyber-security** & **development**
 
-+ Studying **Systems Development** at **ETEC de Guaianazes**
-
 </p>
 
 ---
