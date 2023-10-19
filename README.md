@@ -1,13 +1,6 @@
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=glauberperez&show_icons=true&hide_title=1&theme=react">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=17F700&background=000000&center=true&vCenter=true&random=true&width=700&height=100&lines=Hello+there!+;I+am+a+full-stack+developer+and+pentester!)](https://git.io/typing-svg)
 
 
-### My name is Glauber Perez, and i am actually:
-
-<p>
-
-+ Learning **cyber-security** & **development**
-
-</p>
 
 ---
 
