@@ -10,21 +10,6 @@
 
 
 ---
-## Education
-
-  <a href="https://www.uninove.br/"><img src="./assets/uam.png" align="left" width="94" height="94" alt="UAM-pic"/></a>
-  **UAM (Universidade Anhembi Morumbi)** \
-  Graduation in System Analysis and Development \
-  <i>Jan. 2023</i> - <i>currently now...</i>
-  
-  <br>
-
-  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.png" align="left" width="94" height="94" alt="ETEC-pic"/></a>
-  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes)** \
-  Student in System Development Technical education \
-  <i>Feb. 2019</i> - <i>Dec. 2022</i>
-  
-<br>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=glauberperez&color=blue">
